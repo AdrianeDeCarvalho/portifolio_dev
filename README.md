@@ -15,10 +15,11 @@ Aqui você encontrará uma seleção dos meus projetos mais relevantes, demonstr
 ###  💻 Sistema de Gerenciamento de Usuários (Evolução em 3 Etapas)
 * **Descrição:** Um sistema interativo para cadastro, login, busca e exclusão de usuário, que demonstra a evolução do código em três versões. Ele ilustra minha capacidade de refatorar e adicionar funcionalidades de forma incremental, com foco em boas práticas e tratamento de erros.
 * **Tecnologias:** Python
-* **Link do Repositório:** [**Este link será para o NOVO repositório `sistema-gerenciamento-usuarios` que criaremos separadamente para este projeto.**]
+* **Link do Repositório:** [`sistema-gerenciamento-usuarios`](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-usuarios)
 * **Destaques:** Modularidade do código, validação de entradas, tratamento de exceções e progressão lógica do projeto.
 
-### (Adicione outros projetos aqui, seguindo o mesmo formato. Se ainda não tiver outros grandes projetos, foque neste e mencione que está em busca de novos desafios.)
+
+Estou em busca de novos desafios!
 
 ---
 
