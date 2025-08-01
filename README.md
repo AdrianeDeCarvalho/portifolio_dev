@@ -38,8 +38,7 @@ Atualmente estou me aprofundando em Desenvolvimento Web com Flask, Interações 
 
 ## 📫 Como me Conectar
 * **LinkedIn:**
-* **Email:** adrianedecarvalho578@gmail.com
-  `adrianedecarvalho578@gmail.com`
+* **Email:** `adrianedecarvalho578@gmail.com`
 
 ---
 
