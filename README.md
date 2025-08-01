@@ -4,12 +4,14 @@ Minha coleção de projetos de desenvolvimento, destacando habilidades em Python
 ---
 
 # Olá! :wave:  Eu sou Adriane de Carvalho.
-Sou uma desenvolvedora apaixonada por **Python** e focada em desenvolvimento back-end. Minha jornada na programação é movida pela busca de solução eficientes e pela construção de sistemas que geram impacto.
+Sou uma desenvolvedora apaixonada por **Python** e focada em desenvolvimento back-end. Minha jornada na programação é guiada pela curiosidade, busca por soluções eficientes e aprimoramento contínuo das minhas habilidades.
 
 ---
 
 ## 🚀 Meus Projetos em Destaque
-Aqui você encontrará uma curadoria dos meus projetos mais relevantes, demonstrando minhas habilidades técnicas e minha abordagem para resolver desafios.
+Aqui você encontrará uma seleção dos meus projetos mais relevantes, demonstrando minhas habilidades técnicas e minha abordagem para resolver desafios.
+
+Aqui você encontrará uma seleção dos meus projetos mais relevantes, que demonstram minhas habilidades técnicas e minha abordagem para construir software.
 
 ###  💻 Sistema de Gerenciamento de Usuários (Evolução em 3 Etapas)
 * **Descrição:** Um sistema interativo para cadastro, login, busca e exclusão de usuário, que demonstra a evolução do código em três versões. Ele ilustra minha capacidade de refatorar e adicionar funcionalidades de forma incremental, com foco em boas práticas e tratamento de erros.
