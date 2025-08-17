@@ -19,6 +19,13 @@ Aqui você encontrará uma seleção dos meus projetos mais relevantes, demonstr
 * **Destaques:** Modularidade do código, validação de entradas, tratamento de exceções e progressão lógica do projeto.
 
 
+### 💻 Gerenciador de Tarefas (Evolução em 5 Etapas)
+* **Descrição:** Um gerenciador de tarefas por linha de comando que ilustra a evolução de um projeto, desde um script básico até uma aplicação robusta. Ele demonstra minha habilidade em adicionar funcionalidades de forma incremental, como persistência de dados, tratamento de erros, aprimoramento da interface de usuário e busca de informações.
+* **Tecnologias:** Python, Módulo `json`, Biblioteca `rich`
+* **Link do Repositório:** https://github.com/AdrianeDeCarvalho/gerenciador-de-tarefas
+* **Destaques:** Evolução incremental do projeto, persistência de dados com JSON, aprimoramento da interface de usuário com a biblioteca `rich`, e implementação de lógica de busca e filtragem usando `list comprehension`.
+
+
 Estou em busca de novos desafios!
 
 ---
